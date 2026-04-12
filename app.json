@@ -183,12 +183,7 @@
       "required": true,
       "value": "false"
     },
-
-    "BAD_NUMBER_BLOCKER": {
-      "description": "Make it true if you want bot auto block bad numbers example 263 or 212.",
-      "required": true,
-      "value": "false"
-    },
+    
     "AUTO_DOWNLOADING": {
       "description": "Make it true if you want bot auto Download media from link.",
       "required": true,
